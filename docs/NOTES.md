@@ -9,3 +9,4 @@ A running list of small documentation updates.
 - Note 7: documentation update.
 - Note 8: documentation update.
 - Note 9: documentation update.
+- Note 10: documentation update.
