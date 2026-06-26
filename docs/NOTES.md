@@ -13,3 +13,4 @@ A running list of small documentation updates.
 - Note 11: documentation update.
 - Note 12: documentation update.
 - Note 13: documentation update.
+- Note 14: documentation update.
